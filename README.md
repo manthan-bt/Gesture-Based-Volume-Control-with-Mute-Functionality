@@ -10,7 +10,7 @@ Built as part of the Computer Vision and Image Processing (CVIP) course at PES U
 
 | Open Hand (100%) | Pinch Gesture (55%) | Confirm Gesture | Fist (Mute) |
 |:---:|:---:|:---:|:---:|
-| ![Open Hand](Screenshot%202025-04-16%20004448.png) | ![Pinch](Screenshot%202025-04-16%20004512.png) | ![Confirm](Screenshot%202025-04-16%20004541.png) | ![Mute](Screenshot%202025-04-16%20004605.png) |
+| ![Open Hand](Screenshot%202025-04-16%20004448.png) | ![Pinch](Screenshot%202025-04-16%20004541.png) | ![Confirm](Screenshot%202025-04-16%20004605.png) | ![Mute](Screenshot%202025-04-16%20004512.png) |
 
 ---
 
